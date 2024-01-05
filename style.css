@@ -27,8 +27,9 @@
 }
 .img{
 width : 200px;
-border-radius:80%;
-image-fit : cover;
+height: 200px;
+border-radius:50%;
+object-fit : cover;
   
   
 
