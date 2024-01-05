@@ -35,6 +35,9 @@ object-fit: cover;
   
 
 }
+.first_year {
+  margin-right: 100px;
+}
 
 @keyframes message {
   0% {
