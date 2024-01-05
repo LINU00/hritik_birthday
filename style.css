@@ -23,6 +23,7 @@
   top: 30%;
   opacity: 0;
   animation: message 2s ease-in-out 6s forwards;
+  
 }
 .img{
 width : 200px;
