@@ -10,11 +10,7 @@
   transition: all 100ms ease-in;
 }
 
-body {
-  background-color: #1a1818;
-  overflow: hidden;
-  height: 100vh;
-}
+
 
 .msg {
   width: 100%;
